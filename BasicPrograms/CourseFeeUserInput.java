@@ -3,7 +3,6 @@ public class CourseFeeUserInput{
 public static void main(String[] args){
 	Scanner sc = new Scanner(System.in);
 	float fee = sc.nextFloat();
-//	float fee = 125000;
 	float discountPercent = 10;
 	float discount = fee*(discountPercent/100);
 	float final_fee = fee - discount;
