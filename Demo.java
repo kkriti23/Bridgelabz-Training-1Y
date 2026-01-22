@@ -34,7 +34,7 @@ public static void main(String[] args){
 	 m1();
 	 
 	 System.out.println(args[0]+args[1]);
- 	 System.out.println(Integer.parseInt(args[0])+Integer.parseInt(args[1]));
+ 	 System.out.println((int)args[0].charAt(0)+(int)args[1].charAt(1));
 
 	 }
 }
