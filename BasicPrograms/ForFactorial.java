@@ -8,7 +8,7 @@ public class ForFactorial{
         if(n>0){
             int factorial = 1;
             for(int i=n;i>0;i--){
-                factorial*=i;
+                factorial*=i; 
             }
             System.out.println("factorial : "+factorial);
         }else{
