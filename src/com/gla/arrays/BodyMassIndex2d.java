@@ -5,9 +5,11 @@ public class BodyMassIndex2d {
         Scanner sc = new Scanner(System.in);
         System.out.println("no of persons");
         int persons = sc.nextInt();
+
         int[][] wh = new int[persons][3];
         float[] bmi = new float[persons];
         int[] status = new int[persons];
+        
         System.out.println("for status");
         System.out.println("1 = underweight");
         System.out.println("2 = normal");
