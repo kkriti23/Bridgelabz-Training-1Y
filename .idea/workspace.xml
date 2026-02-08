@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70721f1a-4d71-4245-9b00-889c2d29df68" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/string/production/Demo/ArrayCheckNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/string/production/Demo/ArrayTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/string/production/Demo/ArraysAge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/string/production/Demo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/string/production/Demo/com/gla/arrays/BodyMassIndex1d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/string/production/Demo/com/gla/arrays/BodyMassIndex2d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/string/production/Demo/com/gla/arrays/FactorOfNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/string/production/Demo/com/gla/arrays/FizzBuzz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/string/production/Demo/com/gla/arrays/Grade1d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/string/production/Demo/com/gla/arrays/Grade2d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/string/production/Demo/com/gla/arrays/Reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/string/production/Demo/com/gla/arrays/frequency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/string/production/Demo/com/gla/string/CompareTwoStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/string/production/Demo/com/gla/strings/NewSubstring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/strings/NewSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +37,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kkriti23/Bridgelabz-Training-1Y.git",
+    "accountId": "5b0a891b-7835-4026-a77a-9eb5d75e9d34"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -35,6 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CompareTwoStrings.executor": "Run",
+    "Application.NewSubstring.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "java-array",
