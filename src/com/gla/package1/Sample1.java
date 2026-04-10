@@ -41,9 +41,9 @@ public class Sample1 {
         methodH();
         obj.methodG();
 
-        Student obj1 = new Student();
-        obj1.setName("Kriti");
-        //obj1.setName="Hello";
-        System.out.println(obj1.getName());
+//        Student obj1 = new Student();
+//        obj1.setName("Kriti");
+//        //obj1.setName="Hello";
+//        System.out.println(obj1.getName());
     }
 }
