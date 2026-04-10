@@ -1,4 +1,4 @@
-package com.gla;
+package LibraryManagement.com.gla;
 
 public class Main {
     Library library = new Library();

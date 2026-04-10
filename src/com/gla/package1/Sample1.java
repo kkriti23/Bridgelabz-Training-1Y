@@ -43,7 +43,7 @@ public class Sample1 {
 
         Student obj1 = new Student();
         obj1.setName("Kriti");
-        obj1.name="Hello";
+        //obj1.setName="Hello";
         System.out.println(obj1.getName());
     }
 }
