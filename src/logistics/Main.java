@@ -66,7 +66,7 @@ public class Main {
     public static void saveDriverToDB(String id, String name) {
         String url = "jdbc:mysql://localhost:3306/logistics";
         String sql = "INSERT IGNORE INTO drivers (driverId, name) VALUES (?, ?)";
-        try (java.sql.Connection conn = java.sql.DriverManager.getConnection(url, "root", "Kirtikoyal1509");
+        try (java.sql.Connection conn = java.sql.DriverManager.getConnection(url, "root", "kriti@2307");
              java.sql.PreparedStatement pstmt = conn.prepareStatement(sql)) {
             pstmt.setString(1, id);
             pstmt.setString(2, name);
